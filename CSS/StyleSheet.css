@@ -1,0 +1,115 @@
+﻿html, body {
+    padding:0px;
+    margin:0px;
+}
+
+p, i{
+  font-size: 20px;
+}
+
+br{
+  width: 50px;
+  height: 20px;
+  position:relative;
+
+}
+
+.toolbar {
+    opacity: .8;
+    filter: alpha(opacity=70);
+    position:fixed;
+    z-index:5;
+    width: 100%;
+}
+
+.section {
+    text-align: left;
+    position: relative;
+    padding: 0px;
+    margin: 0px;
+}
+
+.home-section{
+    margin:20%;
+}
+
+.resume-section {
+  padding-left: 3%;
+  padding-right: 3%;
+  padding-bottom: 3%;
+  background-color: #336B87;
+  color: white;
+  overflow: auto;
+}
+
+.background-section {
+    padding: 10px;
+    background-color: #2A3132;
+    color: #FFFFFF;
+}
+
+.contact-section {
+    padding: 10px;
+    background-color: #2A3132;
+    color: white;
+}
+
+.photo-section{
+    padding:0px;
+    margin:0px;
+    min-height: 325px;
+    overflow: hidden;
+}
+
+.photo{
+    position:fixed;
+    width:100%;
+    min-width: 1500px;
+    overflow: hidden;
+}
+
+.form-group{
+    margin:10% !important;
+}
+
+.padding{
+    padding:5px;
+}
+
+.webContentContainer{
+  align: right;
+}
+
+.textContainter{
+  opacity: .8;
+  width: 30%;
+  border-color: black;
+  background-color: #2A3132;
+  border-radius: 5px;
+  color: white;
+  margin: 10rem 5rem 5rem 5rem;
+  padding: 5px;
+  min-width: 300px;
+}
+
+.resume-section-content{
+  border-color: black;
+  border-radius: 5px;
+  background-color: #2A3132;
+  color: white;
+  margin-top: 2rem;
+  padding: 10px;
+}
+
+.resume-section-content-padding{
+  padding-left: 3%;
+  margin: 0;
+}
+
+.center-text{
+  text-align: center;
+}
+
+.margin{
+  margin: 5px 5px 5px 5px;
+}

@@ -57,7 +57,7 @@ br{
 .photo-section{
     padding:0px;
     margin:0px;
-    min-height: 325px;
+    min-height: 650px;
     overflow: hidden;
 }
 
@@ -76,11 +76,7 @@ br{
     padding:5px;
 }
 
-.webContentContainer{
-  align: right;
-}
-
-.textContainter{
+.opening-text-containter{
   opacity: .8;
   width: 30%;
   border-color: black;
@@ -89,7 +85,7 @@ br{
   color: white;
   margin: 10rem 5rem 5rem 5rem;
   padding: 5px;
-  min-width: 300px;
+  min-width: 250px;
 }
 
 .resume-section-content{
@@ -106,10 +102,21 @@ br{
   margin: 0;
 }
 
+.resume-section-header-title{
+  text-align: center;
+  margin: 5px;
+  font-size: 32px;
+}
+
+.resume-section-job-title{
+  margin: 5px;
+  font-size: 25px;
+}
+
 .center-text{
   text-align: center;
 }
 
 .margin{
-  margin: 5px 5px 5px 5px;
+  margin: 5px;
 }

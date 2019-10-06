@@ -70,6 +70,14 @@ br{
     background-color: #2A3132;
 }
 
+.small-photo{
+  position:fixed;
+  width:100%;
+  min-width: 650px;
+  overflow: hidden;
+  background-color: #2A3132;
+}
+
 .form-group{
     margin:10% !important;
 }

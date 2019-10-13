@@ -40,7 +40,7 @@ br{
   padding-bottom: 3%;
   background-color: #336B87;
   color: white;
-  overflow: auto;
+  overflow: hidden;
 }
 
 .background-section {
@@ -78,15 +78,9 @@ br{
   background-color: #2A3132;
 }
 
-.form-group{
-    margin:10% !important;
-}
-
 .padding{
     padding:5px;
 }
-
-
 
 .opening-text-containter{
   opacity: .8;
@@ -108,11 +102,6 @@ br{
   color: white;
   margin-top: 2rem;
   padding: 10px;
-}
-
-.resume-section-content-padding{
-  /* padding-left: 3%; */
-  margin: 0;
 }
 
 .resume-section-header-title{
